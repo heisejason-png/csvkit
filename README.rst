@@ -32,3 +32,4 @@ Important links:
 * Repository:    https://github.com/wireservice/csvkit
 * Issues:        https://github.com/wireservice/csvkit/issues
 * Schemas:       https://github.com/wireservice/ffs
+Created by Jason Scott Heise
